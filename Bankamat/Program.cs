@@ -8,6 +8,7 @@
 
         static void Main(string[] args)
         {
+            Console.WriteLine( " dasturga hush kelibsiz!!!!");
             Console.WriteLine("Pin kodni kiriting: ");
             string kiritilganParol = Convert.ToString(Console.ReadLine());
 
