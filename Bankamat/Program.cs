@@ -80,7 +80,7 @@
             }
             else
             {
-                Console.WriteLine("Hisobingizda mablag' mavjudmas");
+                Console.WriteLine("Hisobingizda mablag' yetarli emas");
             }
         }
         static void SmsXabarnomaUlash()
