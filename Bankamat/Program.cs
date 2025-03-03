@@ -3,7 +3,7 @@
     internal class Program
     {
         static string correctPin = "1111";
-        static decimal balance = 1000m;
+        static decimal balance = 100000m;
         //static string code = "+998";
 
         static void Main(string[] args)
@@ -80,7 +80,7 @@
             }
             else
             {
-                Console.WriteLine("Hisobingizda mablag' mavjudmas");
+                Console.WriteLine("Hisobingizda mablag' yetarli emas");
             }
         }
         static void SmsXabarnomaUlash()
